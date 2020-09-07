@@ -1,0 +1,19 @@
+body
+{	
+	background: rgb(225,224,204);
+}
+
+h1
+{
+	text-align: center;
+}
+
+p
+{
+	font-style: normal;
+}
+ul
+{
+	font-style: italic;
+}
+
